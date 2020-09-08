@@ -66,12 +66,16 @@ towards urban-scale point cloud understanding.
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-	@article{hu2019randla,
+	@article{hu2020towards,
 	  title={Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges},
 	  author={Hu, Qingyong and Yang, Bo and Khalid, Sheikh and Xiao, Wen and Trigoni, Niki and Markham, Andrew},
 	  journal={arXiv preprint arXiv:2009.03137},
 	  year={2020}
 	}
+
+
+### Updates
+* 07/09/2020: Initial release！
 
 
 
