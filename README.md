@@ -5,7 +5,7 @@ This is the official repository of the **SensatUrban** dataset. For technical de
 **Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges** <br />
 [Qingyong Hu](https://qingyonghu.github.io/), [Bo Yang*](https://yang7879.github.io/), [Sheikh Khalid](https://uk.linkedin.com/in/fakharkhalid), 
 [Wen Xiao](https://www.ncl.ac.uk/engineering/staff/profile/wenxiao.html), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/), [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). <br />
-**[[Paper](http://arxiv.org/abs/2009.03137)] [[Video](https://www.youtube.com/watch?v=IG0tTdqB3L8)] [[Project page](https://github.com/QingyongHu/SensatUrban)]** <br />
+**[[Paper](http://arxiv.org/abs/2009.03137)] [[Video](https://www.youtube.com/watch?v=IG0tTdqB3L8)] [[Project page](https://github.com/QingyongHu/SensatUrban)] [Download]** <br />
 
 ### (1) Dataset
 
@@ -17,7 +17,7 @@ Our dataset consists of large areas from two UK cities, covering about 6 km^2 of
 In the dataset, each 3D point is labeled as one of 13 semantic classes, such as *ground*, *vegetation*, 
 *car*, *etc.*. 
 
-<p align="center"> <img src="figs/Fig2.png" width="100%"> </p>
+<p align="center"> <img src="figs/Fig2.png" width="70%"> </p>
 <p align="center"> <img src="figs/Fig1.png" width="100%"> </p>
 
 #### 1.2 Data collection
@@ -48,7 +48,7 @@ all flight paths are pre-planned in a grid fashion and automated by the flight c
 
 
 #### 1.4 Statistics
-<p align="center"> <img src="figs/Fig5.png" width="50%"> </p>
+<p align="center"> <img src="figs/Fig5.png" width="100%"> </p>
 
 
 ### (2) Benchmark
