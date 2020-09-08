@@ -20,7 +20,7 @@ In the dataset, each 3D point is labeled as one of 13 semantic classes, such as 
 <p align="center"> <img src="figs/Fig2.png" width="70%"> </p>
 <p align="center"> <img src="figs/Fig1.png" width="100%"> </p>
 
-#### 1.2 Data collection
+#### 1.2 Data Collection
 
 The 3D point clouds are generated from high-quality aerial images captured by a 
 professional-grade UAV mapping system. In order to fully and evenly cover the survey area, 
@@ -28,7 +28,7 @@ all flight paths are pre-planned in a grid fashion and automated by the flight c
 
 <p align="center"> <img src="figs/Fig3.png" width="70%"> </p>
 
-#### 1.3 Semantic Annotation
+#### 1.3 Semantic Annotations
 
 <p align="center"> <img src="figs/Fig4.png" width="100%"> </p>
 
@@ -51,7 +51,7 @@ all flight paths are pre-planned in a grid fashion and automated by the flight c
 <p align="center"> <img src="figs/Fig5.png" width="100%"> </p>
 
 
-### (2) Benchmark
+### (2) Benchmarks
 We extensively evaluate the performance of state-of-the-art algorithms on our dataset 
 and provide a comprehensive analysis of the results. In particular, we identify several key challenges 
 towards urban-scale point cloud understanding. 
