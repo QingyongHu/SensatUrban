@@ -52,6 +52,10 @@ all flight paths are pre-planned in a grid fashion and automated by the flight c
 
 
 ### (2) Benchmark
+We extensively evaluate the performance of state-of-the-art algorithms on our dataset 
+and provide a comprehensive analysis of the results. In particular, we identify several key challenges 
+towards urban-scale point cloud understanding. 
+
 <p align="center"> <img src="figs/Fig6.png" width="100%"> </p>
 
 
