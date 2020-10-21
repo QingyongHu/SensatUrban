@@ -61,7 +61,7 @@ towards urban-scale point cloud understanding.
 
 ### (3) Demo
 
-<p align="center"> <a href="https://youtu.be/IG0tTdqB3L8"><img src="./http://point-cloud-analysis.cs.ox.ac.uk/imgs/3DV_demo_cover.png" width="50%"></a> </p>
+<p align="center"> <a href="https://youtu.be/IG0tTdqB3L8"><img src="http://point-cloud-analysis.cs.ox.ac.uk/imgs/3DV_demo_cover.png" width="50%"></a> </p>
 
 ### Citation
 If you find our work useful in your research, please consider citing:
