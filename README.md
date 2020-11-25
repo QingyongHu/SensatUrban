@@ -17,8 +17,8 @@ Our dataset consists of large areas from two UK cities, covering about 6 km^2 of
 In the dataset, each 3D point is labeled as one of 13 semantic classes, such as *ground*, *vegetation*, 
 *car*, *etc.*. 
 
-<p align="center"> <img src="http://point-cloud-analysis.cs.ox.ac.uk/imgs/Fig2.png" width="70%"> </p>
 <p align="center"> <img src="http://point-cloud-analysis.cs.ox.ac.uk/imgs/Fig1.png" width="100%"> </p>
+<p align="center"> <img src="http://point-cloud-analysis.cs.ox.ac.uk/imgs/Table1.png" width="100%"> </p>
 
 #### 1.2 Data Collection
 
@@ -26,11 +26,11 @@ The 3D point clouds are generated from high-quality aerial images captured by a
 professional-grade UAV mapping system. In order to fully and evenly cover the survey area, 
 all flight paths are pre-planned in a grid fashion and automated by the flight control system (e-Motion).
 
-<p align="center"> <img src="http://point-cloud-analysis.cs.ox.ac.uk/imgs/Fig3.png" width="70%"> </p>
+<p align="center"> <img src="http://point-cloud-analysis.cs.ox.ac.uk/imgs/Fig2.png" width="70%"> </p>
 
 #### 1.3 Semantic Annotations
 
-<p align="center"> <img src="http://point-cloud-analysis.cs.ox.ac.uk/imgs/Fig4.png" width="100%"> </p>
+<p align="center"> <img src="http://point-cloud-analysis.cs.ox.ac.uk/imgs/Fig3.png" width="100%"> </p>
 
 - Ground: including impervious surfaces, grass, terrain
 - Vegetation: including trees, shrubs, hedges, bushes
