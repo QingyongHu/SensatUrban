@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2009.03137-b31b1b.svg)](https://arxiv.org/abs/2009.03137)
+
 # Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges
 
 This is the official repository of the **SensatUrban** dataset. For technical details, please refer to:
