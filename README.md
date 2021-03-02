@@ -68,10 +68,10 @@ towards urban-scale point cloud understanding.
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-	@article{hu2020towards,
+	@inproceedings{hu2020towards,
 	  title={Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges},
 	  author={Hu, Qingyong and Yang, Bo and Khalid, Sheikh and Xiao, Wen and Trigoni, Niki and Markham, Andrew},
-	  journal={arXiv preprint arXiv:2009.03137},
+      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
 	  year={2020}
 	}
 
@@ -80,6 +80,10 @@ If you find our work useful in your research, please consider citing:
 * 07/09/2020: Initial release!
 
 
-
+## Related Repos
+1. [RandLA-Net](https://github.com/QingyongHu/RandLA-Net) ![GitHub stars](https://img.shields.io/github/stars/QingyongHu/RandLA-Net.svg?style=flat&label=Star)
+2. [SoTA-Point-Cloud](https://github.com/QingyongHu/SoTA-Point-Cloud) ![GitHub stars](https://img.shields.io/github/stars/QingyongHu/SoTA-Point-Cloud.svg?style=flat&label=Star)
+3. [3D-BoNet](https://github.com/Yang7879/3D-BoNet) ![GitHub stars](https://img.shields.io/github/stars/Yang7879/3D-BoNet.svg?style=flat&label=Star)
+3. [SpinNet](https://github.com/QingyongHu/SpinNet) ![GitHub stars](https://img.shields.io/github/stars/QingyongHu/SpinNet.svg?style=flat&label=Star)
 
 
