@@ -72,7 +72,7 @@ If you find our work useful in your research, please consider citing:
 	  title={Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges},
 	  author={Hu, Qingyong and Yang, Bo and Khalid, Sheikh and Xiao, Wen and Trigoni, Niki and Markham, Andrew},
       booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-	  year={2020}
+	  year={2021}
 	}
 
 
