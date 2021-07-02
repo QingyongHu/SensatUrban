@@ -69,9 +69,9 @@ towards urban-scale point cloud understanding.
 
 ### (4) Training and Evaluation
 Here we provide the training and evaluation script of [RandLA-Net](https://github.com/QingyongHu/RandLA-Net) for your reference.
-#### 4.1 Setup
 - Download the dataset 
-Download the files named "data_release.zip". Uncompress the folder and move it to `/Dataset/SensatUrban`.
+
+Download the files named "data_release.zip" [here](https://forms.gle/m4HJiqZxnq8rmjc8A). Uncompress the folder and move it to `/Dataset/SensatUrban`.
 
 - Setup the environment
 ```
@@ -85,7 +85,7 @@ sh compile_op.sh
 ```
 python input_preparation.py --dataset_path $YOURPATH
 cd $YOURPATH; 
-cd ../; mkdir original_block_ply; mv data_release/train/* original_block_ply;  mv data_release/test/* original_block_ply;
+cd ../; mkdir original_block_ply; mv data_release/train/* original_block_ply; mv data_release/test/* original_block_ply;
 mv data_release/grid* ./
 ```
 - Start training: (Please first modified the root_path)
@@ -98,7 +98,7 @@ python main_SensatUrban.py --mode test --gpu 0
 ```
 - Submit the results to the server:
 The compressed results can be found in `/test/Log_*/test_preds/submission.zip`. Then, feel free to submit this results to the 
-[evaluation server](https://competitions.codalab.org/competitions/31519#participate-submit_results) 
+[evaluation server](https://competitions.codalab.org/competitions/31519#participate-submit_results). 
 
 
 ### Citation
