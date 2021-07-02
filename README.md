@@ -66,6 +66,41 @@ towards urban-scale point cloud understanding.
 
 <p align="center"> <a href="https://youtu.be/IG0tTdqB3L8"><img src="http://point-cloud-analysis.cs.ox.ac.uk/imgs/3DV_demo_cover.png" width="80%"></a> </p>
 
+
+### (4) Training and Evaluation
+Here we provide the training and evaluation script of [RandLA-Net](https://github.com/QingyongHu/RandLA-Net) for your reference.
+#### 4.1 Setup
+- Download the dataset 
+Download the files named "data_release.zip". Uncompress the folder and move it to `/Dataset/SensatUrban`.
+
+- Setup the environment
+```
+conda create -n randlanet python=3.5
+source activate randlanet
+pip install -r helper_requirements.txt
+sh compile_op.sh
+```
+
+- Preparing the dataset
+```
+python input_preparation.py --dataset_path $YOURPATH
+cd $YOURPATH; 
+cd ../; mkdir original_block_ply; mv data_release/train/* original_block_ply;  mv data_release/test/* original_block_ply;
+mv data_release/grid* ./
+```
+- Start training: (Please first modified the root_path)
+```
+python main_SensatUrban.py --mode train --gpu 0 
+```
+- Evaluation:
+```
+python main_SensatUrban.py --mode test --gpu 0 
+```
+- Submit the results to the server:
+The compressed results can be found in `/test/Log_*/test_preds/submission.zip`. Then, feel free to submit this results to the 
+[evaluation server](https://competitions.codalab.org/competitions/31519#participate-submit_results) 
+
+
 ### Citation
 If you find our work useful in your research, please consider citing:
 

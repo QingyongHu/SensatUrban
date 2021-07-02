@@ -3,11 +3,14 @@ from sklearn.neighbors import KDTree
 from tool import DataProcessing as DP
 from helper_ply import write_ply
 import numpy as np
-import os, pickle
+import os, pickle, argparse
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--dataset_path', type=str, required=True, help='the number of GPUs to use [default: 0]')
+    FLAGS = parser.parse_args()
     dataset_name = 'SensatUrban'
-    dataset_path = '/media/qingyong/QY/QY/data_release'
+    dataset_path = FLAGS.dataset_path
     preparation_types = ['grid']  # Grid sampling & Random sampling
     grid_size = 0.2
     random_sample_ratio = 10
