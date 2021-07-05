@@ -88,6 +88,22 @@ cd $YOURPATH;
 cd ../; mkdir original_block_ply; mv data_release/train/* original_block_ply; mv data_release/test/* original_block_ply;
 mv data_release/grid* ./
 ```
+The data should organized in the following format:
+```
+/Dataset/SensatUrban/
+          └── original_block_ply/
+                  ├── birmingham_block_0.ply
+                  ├── birmingham_block_1.ply 
+		  ...
+	    	  └── cambridge_block_34.ply 
+          └── grid_0.200/
+	     	  ├── birmingham_block_0_KDTree.pkl
+                  ├── birmingham_block_0.ply
+		  ├── birmingham_block_0_proj.pkl 
+		  ...
+	    	  └── cambridge_block_34.ply 
+```
+
 - Start training: (Please first modified the root_path)
 ```
 python main_SensatUrban.py --mode train --gpu 0 
