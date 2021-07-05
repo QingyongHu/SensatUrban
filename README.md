@@ -118,7 +118,7 @@ The compressed results can be found in `/test/Log_*/test_preds/submission.zip`. 
 
 - The Urban3D Challenge@ICCV2021 Forum:
 Please scan the code to join our wechat group or drop a message [here](https://competitions.codalab.org/forums/28215/):
-<p align="center"> <img src="imgs/wechat_code.png" width="50%"> </p>
+<p align="center"> <img src="imgs/wechat_code.jpg" width="50%"> </p>
 
 
 ### Citation
