@@ -10,7 +10,9 @@ This is the official repository of the **SensatUrban** dataset. For technical de
 [Qingyong Hu](https://qingyonghu.github.io/), [Bo Yang*](https://yang7879.github.io/), [Sheikh Khalid](https://uk.linkedin.com/in/fakharkhalid), 
 [Wen Xiao](https://www.ncl.ac.uk/engineering/staff/profile/wenxiao.html), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/), [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). <br />
 **[[Paper](http://arxiv.org/abs/2009.03137)] [[Blog](https://zhuanlan.zhihu.com/p/259208850)] [[Video](https://www.youtube.com/watch?v=IG0tTdqB3L8)] [[Project page](https://github.com/QingyongHu/SensatUrban)] [[Download](https://forms.gle/m4HJiqZxnq8rmjc8A)] 
-[[Evaluation](https://competitions.codalab.org/competitions/31519#participate-submit_results)]** <br />
+[[Evaluation](https://competitions.codalab.org/competitions/31519#participate-submit_results)]
+[[Urban3D workshop@ECCV2022](https://urban3dchallenge.github.io/)]
+** <br />
 
 
 **We are hosting the 2nd Urban3D Challenge at ECCV 2022, please refer to [this page](https://urban3dchallenge.github.io/) for more details.**
@@ -139,9 +141,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Updates
+* 03/25/2022: we are organizing the [Urban3D@ECCV2022 - The 2nd Challenge on Large-Scale Point Clouds Analysis for Urban Scenes Understanding](https://urban3dchallenge.github.io/)!
 * 01/03/2021: The SensatUrban has been accepted by CVPR 2021!
 * 11/02/2021: The dataset is available for download!
 * 07/09/2020: Initial release!
+
 
 
 ## Related Repos
