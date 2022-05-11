@@ -1,4 +1,6 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2009.03137-b31b1b.svg)](https://arxiv.org/abs/2009.03137)
+[![GitHub Stars](https://img.shields.io/github/stars/QingyongHu/SensatUrban?style=social)](https://github.com/QingyongHu/SensatUrban)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=QingyongHu/SensatUrban)
 
 # Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges
 
@@ -9,6 +11,9 @@ This is the official repository of the **SensatUrban** dataset. For technical de
 [Wen Xiao](https://www.ncl.ac.uk/engineering/staff/profile/wenxiao.html), [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/), [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). <br />
 **[[Paper](http://arxiv.org/abs/2009.03137)] [[Blog](https://zhuanlan.zhihu.com/p/259208850)] [[Video](https://www.youtube.com/watch?v=IG0tTdqB3L8)] [[Project page](https://github.com/QingyongHu/SensatUrban)] [[Download](https://forms.gle/m4HJiqZxnq8rmjc8A)] 
 [[Evaluation](https://competitions.codalab.org/competitions/31519#participate-submit_results)]** <br />
+
+<font color="#dd0000">We are hosting the 2nd Urban3D Challenge at ECCV 2022 </font><br />, please refer to [this page](https://urban3dchallenge.github.io/) for more details.
+
 
 ### (1) Dataset
 
