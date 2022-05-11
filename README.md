@@ -12,7 +12,10 @@ This is the official repository of the **SensatUrban** dataset. For technical de
 **[[Paper](http://arxiv.org/abs/2009.03137)] [[Blog](https://zhuanlan.zhihu.com/p/259208850)] [[Video](https://www.youtube.com/watch?v=IG0tTdqB3L8)] [[Project page](https://github.com/QingyongHu/SensatUrban)] [[Download](https://forms.gle/m4HJiqZxnq8rmjc8A)] 
 [[Evaluation](https://competitions.codalab.org/competitions/31519#participate-submit_results)]** <br />
 
-<font color="#dd0000">We are hosting the 2nd Urban3D Challenge at ECCV 2022 </font><br />, please refer to [this page](https://urban3dchallenge.github.io/) for more details.
+
+```diff
+- We are hosting the 2nd Urban3D Challenge at ECCV 2022, please refer to [this page](https://urban3dchallenge.github.io/) for more details.
+```
 
 
 ### (1) Dataset
@@ -149,6 +152,10 @@ If you find our work useful in your research, please consider citing:
 3. [3D-BoNet: Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds](https://github.com/Yang7879/3D-BoNet) ![GitHub stars](https://img.shields.io/github/stars/Yang7879/3D-BoNet.svg?style=flat&label=Star)
 4. [SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration](https://github.com/QingyongHu/SpinNet) ![GitHub stars](https://img.shields.io/github/stars/QingyongHu/SpinNet.svg?style=flat&label=Star)
 5. [SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds with 1000x Fewer Labels](https://github.com/QingyongHu/SQN) ![GitHub stars](https://img.shields.io/github/stars/QingyongHu/SQN.svg?style=flat&label=Star)
+6. [Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds](https://github.com/yifanzhang713/IA-SSD) ![GitHub stars](https://img.shields.io/github/stars/yifanzhang713/IA-SSD.svg?style=flat&label=Star)
+7. [STPLS3D: A Large-Scale Synthetic and Real Aerial Photogrammetry 3D Point Cloud Dataset](https://github.com/meidachen/STPLS3D) ![GitHub stars](https://img.shields.io/github/stars/meidachen/STPLS3D.svg?style=flat&label=Star)
+
+
 
 
 
