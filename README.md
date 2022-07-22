@@ -133,9 +133,21 @@ If you find our work useful in your research, please consider citing:
 	@inproceedings{hu2020towards,
 	  title={Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges},
 	  author={Hu, Qingyong and Yang, Bo and Khalid, Sheikh and Xiao, Wen and Trigoni, Niki and Markham, Andrew},
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
 	  year={2021}
 	}
+
+
+	@article{hu2022sensaturban,
+  	title={Sensaturban: Learning semantics from urban-scale photogrammetric point clouds},
+  	author={Hu, Qingyong and Yang, Bo and Khalid, Sheikh and Xiao, Wen and Trigoni, Niki and Markham, Andrew},
+  	journal={International Journal of Computer Vision},
+  	volume={130},
+  	number={2},
+  	pages={316--343},
+  	year={2022},
+  	publisher={Springer}
+  }
 
 
 ### Updates
